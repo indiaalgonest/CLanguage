@@ -51,4 +51,45 @@ See you in the next lecture!”
 
 Ready for **Lecture 48: Everyday Workflow – Code, Test, Commit and Push**?
 
-Just reply **“Next”**.
+git push
+```”
+
+**(8:30 – 10:00) Step 5: Verify on GitHub**  
+“Now open your GitHub repository in the browser and refresh the page.  
+
+You should be able to see:
+- Your `hello.c` file  
+- Your `README.md` file properly displayed  
+- Your commit message  
+
+Congratulations! You have successfully published your first C program on GitHub.”
+
+**(10:00 – End) Final Words for Section 4**  
+“Excellent work!  
+
+You have now learned one of the most important professional skills — Version Control using Git and GitHub.  
+
+From this point onward, I strongly recommend that you:
+- Commit your exercises regularly  
+- Keep your README updated  
+- Build a clean GitHub portfolio as you progress through the course  
+
+In the next section, we will start learning **Variables, Data Types & Operators**.
+
+See you in Section 5!”
+
+---
+
+### On-Screen Suggestions
+- Show every command clearly in the terminal.
+- Highlight success messages.
+- Show the final GitHub repository page with README rendered.
+- Celebrate the milestone (e.g., “Your first C project is now online!”).
+
+---
+
+**Section 4 is now complete.**
+
+Would you like to proceed to **Section 5: Variables, Data Types & Operators – Lecture 1**?
+
+Reply **“Next or Yes”**.
