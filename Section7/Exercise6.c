@@ -1,0 +1,26 @@
+/*
+Take age and citizenship status (Y/N) as input.
+
+Check if the person is eligible to vote using logical operators.
+
+(Eligible only if age ≥ 18 and citizenship is Y)
+*/
+#include <stdio.h>
+int main() {
+    int age;
+    char citizenship;
+
+    printf("Enter your age: ");
+    scanf("%d", &age);
+
+    printf("Are you a citizen? (Y/N): ");
+    scanf(" %c", &citizenship);
+
+    if (age >= 18 && (citizenship == 'Y' || citizenship == 'y')) {
+        printf("You are eligible to vote.\n");
+    } else {
+        printf("You are not eligible to vote.\n");
+    }
+
+    return 0;
+}
